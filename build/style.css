@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-modal-sheet-container.lg\:max-w-\[1440px\].lg\:px-\[150px\] {
+    background: #2F5231 !important;
+}
+
+nav#EZDrawer__containerlq40zl {
+    background: #2f5231cc;
+}
+
+.Toastify {
+    z-index: 99999999;
+    position: absolute;
+}
